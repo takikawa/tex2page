@@ -1,4 +1,18 @@
 tex2page
 ========
 
-Dorai Sitaram's tex2page package
+Dorai Sitaram's tex2page package. This was previously
+bundled in the [Racket](http://www.racket-lang.org)
+distribution but is now provided separately.  See the
+[home page](http://www.ccs.neu.edu/home/dorai/tex2page/)
+for documentation and the newest version of the tool.
+
+---
+
+Copyright (c) 1997-2009, Dorai Sitaram.
+All rights reserved.
+
+Permission to distribute and use this work for any
+purpose is hereby granted provided this copyright
+notice is included in the copy.  This work is provided
+as is, with no warranty of any kind.
