@@ -8,7 +8,7 @@ distribution but is now provided separately.  See the
 for documentation and the newest version of the tool.
 
 For instructions specific to Racket, see the
-[PLaneT entry](http://planet.racket-lang.org/display.ss?package=tex2page.plt&owner=asumu)
+[PLaneT entry](http://planet.racket-lang.org/display.ss?package=tex2page.plt&owner=plt)
 for the package.
 
 ---
