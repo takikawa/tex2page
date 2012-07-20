@@ -5,7 +5,7 @@
 
 (define release-notes '("Initial release of the package"))
 
-(define mcfly-planet       'asumu/tex2page:1:0)
+(define mcfly-planet       'plt/tex2page:1:0)
 
 (define name               "tex2page")
 
@@ -15,7 +15,7 @@
 
 (define homepage           "http://www.ccs.neu.edu/home/dorai/tex2page/")
 
-(define mcfly-author       "Asumu Takikawa & Dorai Sitaram")
+(define mcfly-author       "PLT & Dorai Sitaram")
 
 (define repositories       '("4.x"))
 
